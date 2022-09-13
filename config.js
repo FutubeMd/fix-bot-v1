@@ -46,7 +46,7 @@ global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6288980870067'
-global.nomorown = '6283866366437'
+global.nomorown = '6281991134619'
 global.namebot = 'MikasaBotzz'
 global.nameown = 'DennSoftex'
 
