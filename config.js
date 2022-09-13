@@ -36,12 +36,12 @@ global.sgc = 'https://chat.whatsapp.com/IfeHcLelO2T9hzBnFjHMb8' //group whatsapp
 global.sdc = '-' //discord
 global.snh = 'https://youtube.com/channel/MikasaBotzz' // my youtube channel
 /*============== PAYMENT ==============*/
-global.pdana = '083866366437' //dana
-global.povo = '088980870067' //ovo
-global.pgopay = '088980870067' //gopay
-global.plinkaja = '083112831554' //link aja
-global.ppulsa = '088980870067' //telkomsel
-global.ppulsa2 = '083112831554' // kalau ada kartu lain isi aja
+global.pdana = '08987768250' //dana
+global.povo = '08987768250' //ovo
+global.pgopay = '08987768250' //gopay
+global.plinkaja = '08987768250' //link aja
+global.ppulsa = '08987768250' //Triii
+global.ppulsa2 = '08987768250' // kalau ada kartu lain isi aja
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
